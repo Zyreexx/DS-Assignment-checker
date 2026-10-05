@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "LeetCode Assignment Checker",
+  "version": "1.0.0",
+  "description": "See which assignment problems remain unsolved on your signed-in LeetCode account.",
+  "permissions": ["activeTab"],
+  "host_permissions": ["https://leetcode.com/*"],
+  "action": {
+    "default_title": "Check assignment progress",
+    "default_popup": "popup.html"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://leetcode.com/*"],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ]
+}

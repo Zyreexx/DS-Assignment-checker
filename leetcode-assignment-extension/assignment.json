@@ -1,0 +1,278 @@
+[
+  {
+    "topic": "Array",
+    "name": "3 Sum",
+    "slug": "3sum",
+    "video": "https://www.youtube.com/watch?v=DhFh8Kw7ymk"
+  },
+  {
+    "topic": "Array",
+    "name": "4 Sum",
+    "slug": "4sum",
+    "video": "https://www.youtube.com/watch?v=eD95WRfh81c"
+  },
+  {
+    "topic": "Array",
+    "name": "Print the matrix in spiral manner",
+    "slug": "spiral-matrix",
+    "video": "https://www.youtube.com/watch?v=3Zv-s9UUrFM"
+  },
+  {
+    "topic": "Array",
+    "name": "Set Matrix Zeroes",
+    "slug": "set-matrix-zeroes",
+    "video": "https://www.youtube.com/watch?v=N0MgLvceX7M"
+  },
+  {
+    "topic": "Array",
+    "name": "Rearrange array elements by sign",
+    "slug": "rearrange-array-elements-by-sign",
+    "video": "https://www.youtube.com/watch?v=h4aBagy4Uok"
+  },
+  {
+    "topic": "Array",
+    "name": "Find the Duplicate Number",
+    "slug": "find-the-duplicate-number",
+    "video": "https://www.youtube.com/watch?v=32Ll35mhWg0"
+  },
+  {
+    "topic": "Array",
+    "name": "Longest Substring Without Repeating Characters",
+    "slug": "longest-substring-without-repeating-characters",
+    "video": "https://www.youtube.com/watch?v=-zSxTJkcdAo"
+  },
+  {
+    "topic": "Array",
+    "name": "Next Permutation",
+    "slug": "next-permutation",
+    "video": "https://www.youtube.com/watch?v=JDOXKqF60RQ"
+  },
+  {
+    "topic": "Array",
+    "name": "Count subarrays with given sum",
+    "slug": "subarray-sum-equals-k",
+    "video": "https://www.youtube.com/watch?v=xvNwoz-ufXA"
+  },
+  {
+    "topic": "Array",
+    "name": "Merge two sorted arrays without extra space",
+    "slug": "merge-sorted-array",
+    "video": "https://www.youtube.com/watch?v=n7uwj04E0I4"
+  },
+  {
+    "topic": "Stack",
+    "name": "Implement Stack using Queue (single queue)",
+    "slug": "implement-stack-using-queues",
+    "video": "https://www.youtube.com/watch?v=tqQ5fTamIN4"
+  },
+  {
+    "topic": "Stack",
+    "name": "Balanced Parenthesis",
+    "slug": "valid-parentheses",
+    "video": "https://www.youtube.com/watch?v=xwjS0iZhw4I"
+  },
+  {
+    "topic": "Stack",
+    "name": "Implement Min Stack",
+    "slug": "min-stack",
+    "video": "https://www.youtube.com/watch?v=NdDIaH91P0g"
+  },
+  {
+    "topic": "Stack",
+    "name": "Maximum Rectangles",
+    "slug": "maximal-rectangle",
+    "video": "https://www.youtube.com/watch?v=tOylVCugy9k"
+  },
+  {
+    "topic": "Stack",
+    "name": "Asteroid Collision",
+    "slug": "asteroid-collision",
+    "video": "https://www.youtube.com/watch?v=_eYGqw_VDR4"
+  },
+  {
+    "topic": "Stack",
+    "name": "Sum of Subarray Minimums",
+    "slug": "sum-of-subarray-minimums",
+    "video": "https://www.youtube.com/watch?v=v0e8p9JCgRc"
+  },
+  {
+    "topic": "Stack",
+    "name": "Trapping Rainwater",
+    "slug": "trapping-rain-water",
+    "video": "https://www.youtube.com/watch?v=1_5VuquLbXg"
+  },
+  {
+    "topic": "Linked List",
+    "name": "Deletion of the head of LL",
+    "slug": "delete-node-in-a-linked-list",
+    "video": "https://www.youtube.com/watch?v=VaECK03Dz-g"
+  },
+  {
+    "topic": "Linked List",
+    "name": "Remove Nth node from the back of the LL",
+    "slug": "remove-nth-node-from-end-of-list",
+    "video": "https://www.youtube.com/watch?v=3kMKYQ2wNIU"
+  },
+  {
+    "topic": "Linked List",
+    "name": "Check if LL is palindrome",
+    "slug": "palindrome-linked-list",
+    "video": "https://www.youtube.com/watch?v=lRY_G-u_8jk"
+  },
+  {
+    "topic": "Linked List",
+    "name": "Detect a loop in LL",
+    "slug": "linked-list-cycle",
+    "video": "https://www.youtube.com/watch?v=wiOo4DC5GGA"
+  },
+  {
+    "topic": "Linked List",
+    "name": "Find the starting point in LL",
+    "slug": "linked-list-cycle-ii",
+    "video": "https://www.youtube.com/watch?v=2Kd0KKmmHFc"
+  },
+  {
+    "topic": "Linked List",
+    "name": "Reverse a LL",
+    "slug": "reverse-linked-list",
+    "video": "https://www.youtube.com/watch?v=D2vI2DNJGd8"
+  },
+  {
+    "topic": "Linked List",
+    "name": "Reorder List",
+    "slug": "reorder-list",
+    "video": "https://youtu.be/xnjwT4sDf8o"
+  },
+  {
+    "topic": "Linked List",
+    "name": "Rotate a LL",
+    "slug": "rotate-list",
+    "video": "https://www.youtube.com/watch?v=uT7YI7XbTY8"
+  },
+  {
+    "topic": "Linked List",
+    "name": "Reverse LL in groups of K",
+    "slug": "reverse-nodes-in-k-group",
+    "video": ""
+  },
+  {
+    "topic": "Tree",
+    "name": "Zig Zag or Spiral Traversal",
+    "slug": "binary-tree-zigzag-level-order-traversal",
+    "video": "https://www.youtube.com/watch?v=3OXWEdlIGl4"
+  },
+  {
+    "topic": "Tree",
+    "name": "Post-order Traversal of Binary Tree using 1 stack",
+    "slug": "binary-tree-postorder-traversal",
+    "video": "https://www.youtube.com/watch?v=NzIGLLwZBS8"
+  },
+  {
+    "topic": "Tree",
+    "name": "Find K-th smallest element in BST",
+    "slug": "kth-smallest-element-in-a-bst",
+    "video": "https://www.youtube.com/watch?v=9TJYWh0adfk"
+  },
+  {
+    "topic": "Tree",
+    "name": "Maximum XOR of two numbers in an array",
+    "slug": "maximum-xor-of-two-numbers-in-an-array",
+    "video": "https://www.youtube.com/watch?v=EIhAwfHubE8"
+  },
+  {
+    "topic": "Tree",
+    "name": "Right View of Binary Tree",
+    "slug": "binary-tree-right-side-view",
+    "video": "https://www.youtube.com/watch?v=KV4mRzTjlAk"
+  },
+  {
+    "topic": "Tree",
+    "name": "Construct a BT from Preorder and Inorder",
+    "slug": "construct-binary-tree-from-preorder-and-inorder-traversal",
+    "video": "https://www.youtube.com/watch?v=aZNaLrVebKQ"
+  },
+  {
+    "topic": "Tree",
+    "name": "Construct a BT from Postorder and Inorder",
+    "slug": "construct-binary-tree-from-inorder-and-postorder-traversal",
+    "video": ""
+  },
+  {
+    "topic": "Tree",
+    "name": "Binary Tree to Doubly Linked List",
+    "slug": "flatten-binary-tree-to-linked-list",
+    "video": ""
+  },
+  {
+    "topic": "Tree",
+    "name": "Maximum XOR with an element from an array",
+    "slug": "maximum-xor-with-an-element-from-array",
+    "video": "https://www.youtube.com/watch?v=Q8LhG9Pi5KM"
+  },
+  {
+    "topic": "Tree",
+    "name": "Maximum Width of BT",
+    "slug": "maximum-width-of-binary-tree",
+    "video": "https://www.youtube.com/watch?v=ZbybYvcVLks"
+  },
+  {
+    "topic": "Graph",
+    "name": "Rotten Oranges",
+    "slug": "rotting-oranges",
+    "video": "https://www.youtube.com/watch?v=yf3oUhkvqA0"
+  },
+  {
+    "topic": "Graph",
+    "name": "Detect a cycle in a directed graph using DFS",
+    "slug": "course-schedule",
+    "video": "https://www.youtube.com/watch?v=BPlrALf1LDU"
+  },
+  {
+    "topic": "Graph",
+    "name": "Course Schedule II",
+    "slug": "course-schedule-ii",
+    "video": "https://www.youtube.com/watch?v=WAOfKpxYHR8"
+  },
+  {
+    "topic": "Graph",
+    "name": "Number of islands",
+    "slug": "number-of-islands",
+    "video": "https://www.youtube.com/watch?v=muncqlKJrH0"
+  },
+  {
+    "topic": "Graph",
+    "name": "Shortest Distance in a Binary Maze",
+    "slug": "shortest-path-in-binary-matrix",
+    "video": "https://www.youtube.com/watch?v=U5Mw4eyUmw4"
+  },
+  {
+    "topic": "Graph",
+    "name": "Path with minimum effort",
+    "slug": "path-with-minimum-effort",
+    "video": "https://www.youtube.com/watch?v=0ytpZyiZFhA"
+  },
+  {
+    "topic": "Graph",
+    "name": "Bridges in graph",
+    "slug": "critical-connections-in-a-network",
+    "video": "https://www.youtube.com/watch?v=qrAub5z8FeA"
+  },
+  {
+    "topic": "Graph",
+    "name": "Most stones removed with same row or column",
+    "slug": "most-stones-removed-with-same-row-or-column",
+    "video": "https://www.youtube.com/watch?v=OwMNX8SPavM"
+  },
+  {
+    "topic": "Graph",
+    "name": "Making a large island",
+    "slug": "making-a-large-island",
+    "video": "https://www.youtube.com/watch?v=lgiz0Oup6gM"
+  },
+  {
+    "topic": "Graph",
+    "name": "Bipartite graph",
+    "slug": "is-graph-bipartite",
+    "video": "https://www.youtube.com/watch?v=KG5YFfR0j8A"
+  }
+]

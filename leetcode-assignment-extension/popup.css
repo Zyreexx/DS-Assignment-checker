@@ -1,0 +1,30 @@
+* { box-sizing: border-box; }
+body {
+  width: 390px;
+  max-height: 590px;
+  margin: 0;
+  color: #1d232a;
+  background: #f5f6f7;
+  font: 14px/1.45 system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+header { padding: 20px 20px 15px; background: #fff; border-bottom: 1px solid #e5e7eb; }
+.eyebrow { color: #68717b; font-size: 10px; font-weight: 700; letter-spacing: .13em; }
+h1 { margin: 5px 0 2px; font-size: 22px; letter-spacing: -.03em; }
+header p { margin: 0; color: #68717b; }
+main { padding: 14px 16px 18px; }
+button {
+  width: 100%; padding: 11px 14px; border: 0; border-radius: 8px;
+  color: #fff; background: #1d232a; font: inherit; font-weight: 650; cursor: pointer;
+}
+button:disabled { opacity: .55; cursor: wait; }
+#message { padding: 10px 2px 4px; color: #68717b; }
+#message.error { color: #a33127; }
+#list { max-height: 390px; overflow: auto; }
+.section-title { margin: 12px 0 2px; font-size: 16px; }
+.topic { margin: 13px 0 5px; color: #48515b; font-size: 11px; font-weight: 750; letter-spacing: .08em; text-transform: uppercase; }
+.problem { padding: 10px 0; border-top: 1px solid #e5e7eb; }
+.problem-name { margin-bottom: 4px; font-weight: 650; }
+.problem a { color: #1d5da8; font-size: 12px; text-decoration: none; }
+.problem a:hover { text-decoration: underline; }
+.video { display: inline-block; margin-left: 12px; color: #a33127 !important; }
+.done { color: #176b45; font-size: 15px; font-weight: 650; }
